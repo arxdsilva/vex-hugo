@@ -93,11 +93,11 @@ logo_width = "100px"
 description = "This is meta description"
 author = "Themefisher"
 # currency
-currency = "$"
+currency = "R$"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # snipcart public api key
-snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
+snipcart_api = "NTljZTI4NmMtZmY4OS00MTc0LThiNmMtYWRhM2E4MWZiNzVmNjM3MzQ5NDQ0OTE3MDk0MjIy"
 
 # Preloader
 [params.preloader]
