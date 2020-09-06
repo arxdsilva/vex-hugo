@@ -4,6 +4,7 @@ googleAnalytics = ""
 summarylength = "20"
 theme = "vex-hugo"
 title = "do Salto Flores"
+DefaultContentLanguage = "pt"
 [Languages.pt]
 contentDir = "content/portuguese"
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
