@@ -1,33 +1,26 @@
 ---
-title: "Terms & Conditions"
-description : "this is a meta description"
+title: "Termos & Condições"
+description : "do salto flores"
 draft: false
 ---
 
-Please read this terms and conditions stated below, which outline a lot of legal goodies, but the bottom line is it’s our aim to always take care of both of us, as a customer, or as a seller. We’ve included many of these terms to legally protect ourselves, but if you have an issue, always feel free to email us at contact@themefisher.com and we’ll do our best to resolve it in a fair and timely way .
+Por favor, leia os termos e condições declarados abaixo, que descrevem muitos aspectos legais, mas o resultado final é o nosso objetivo sempre cuidar de nós dois, como clientes ou vendedores. Incluímos muitos desses termos para nos proteger legalmente, mas se você tiver um problema, sinta-se à vontade para nos enviar um e-mail para floresdosalto@gmail.com e faremos o possível para resolvê-lo de maneira justa e oportuna.
 
-### Product Buy & delivery policy
+### Compras & política de entrega
 
-1)All payments are processed securely through PayPal or Stripe. Themefisher does not directly process payments through the website. So any kind of Problem if you face Themefisher will Not Take any responsibility.
+1) Todos os pagamentos são processados com segurança através do PayPal ou Stripe. doSaltoFlores não processa pagamentos diretamente através do site. Portanto, qualquer tipo de problema se você enfrentar o doSaltoFlores não assumirá nenhuma responsabilidade.
 
-### Product Buy & delivery policy
+### Compras & política de entrega
 
-Please read this terms and conditions stated below, which outline a lot of legal goodies, but the bottom line is it’s our aim to always take care of both of us, as a customer, or as a seller. We’ve included many of these terms to legally protect ourselves, but if you have an issue, always feel free to email us at contact@themefisher.com and we’ll do our best to resolve it in a fair and timely way .
+Por favor, leia os termos e condições declarados abaixo, que descrevem muitos aspectos legais, mas o resultado final é o nosso objetivo sempre cuidar de nós dois, como clientes ou vendedores. Incluímos muitos desses termos para nos proteger legalmente, mas se você tiver um problema, sinta-se sempre à vontade para nos enviar um e-mail para floresdosalto@gmail.com e faremos o possível para resolvê-lo de maneira justa e oportuna.
 
 ### Refund Policy
 
-1) Since Themefisher is offering non-tangible and irrevocable digital products, we do NOT issue refunds after a purchase is made. If there is a problem with one of the digital download products or if you experience any difficulty with the download, we will fix the problem.
-2) You have 24 hours to inspect your purchase and to determine if it does not meet with the expectations laid forth by The Themefisher. In the event that you wish to receive a refund, Themefisher will issue you a refund and ask you to specify how the product failed to live up to expectations.
-3) When you make a qualifying return, We’ll credit the full amount, less the handling charges. Refunds are generally processed within 3–5 business days after we receive your claim and find it eligible for a return. Refunds are applied to the original payment option.
+1) Visto que a doSaltoFlores oferece produtos perecíveis, NÃO emitimos reembolsos após a entrega ser feita. Se houver um problema com um dos produtos entregues ou se você tiver qualquer dificuldade, entre em contato através do email floresdosalto@gmai.com para resolveremos o problema.
+2) Você tem 24 horas para inspecionar sua compra e determinar se ela não atende às expectativas estabelecidas pela doSaltoFlores. No caso de você desejar receber um reembolso antes da entrega, doSaltoFlores emitirá um reembolso e solicitará que você especifique como o produto não correspondeu às expectativas.
+3) O reembolso NÃO inclui o valor pago de frete.
 
-### Support Policy
-1) Since Themefisher is offering non-tangible and irrevocable digital products, we do NOT issue refunds after a purchase is made. If there is a problem with one of the digital download products or if you experience any difficulty with the download, we will fix the problem.
-2) You have 24 hours to inspect your purchase and to determine if it does not meet with the expectations laid forth by The Themefisher. In the event that you wish to receive a refund, Themefisher will issue you a refund and ask you to specify how the product failed to live up to expectations.
-3) When you make a qualifying return, We’ll credit the full amount, less the handling charges. Refunds are generally processed within 3–5 business days after we receive your claim and find it eligible for a return. Refunds are applied to the original payment option.
-
-### Why We Support:
-
-1. Support covers getting up and help in theme setup
-2. Help using features and theme options
-3. Bug fixes – if you discovered a bug in the theme/Template we will fix it
-4. Functionality which does not work as advertised
+### Política de suporte
+1) Visto que a doSaltoFlores oferece produtos perecíveis, NÃO emitimos reembolsos após a entrega ser feita. Se houver um problema com um dos produtos entregues ou se você tiver qualquer dificuldade, entre em contato através do email floresdosalto@gmai.com para resolveremos o problema.
+2) Você tem 24 horas para inspecionar sua compra e determinar se ela não atende às expectativas estabelecidas pela doSaltoFlores. No caso de você desejar receber um reembolso antes da entrega, doSaltoFlores emitirá um reembolso e solicitará que você especifique como o produto não correspondeu às expectativas.
+3) O reembolso NÃO inclui o valor pago de frete.
