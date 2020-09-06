@@ -3,18 +3,18 @@ disableLanguages = ["pt-br"]
 googleAnalytics = ""
 summarylength = "20"
 theme = "vex-hugo"
-title = "Vex | hugo landing page template"
+title = "do Salto Flores"
+[Languages.pt]
+contentDir = "content/portuguese"
+copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+languageCode = "pt-br"
+languageName = "Pt"
+weight = 1
 [Languages.en]
 contentDir = "content/english"
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
-languageCode = "en-us"
-languageName = "En"
-weight = 1
-[Languages.fr]
-contentDir = "content/french"
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
-languageCode = "fr-fr"
-languageName = "Fr"
+languageCode = "pt-br"
+languageName = "Pt"
 weight = 2
 [[menu.footer]]
 URL = "blog"
@@ -26,11 +26,11 @@ name = "Contact"
 weight = 2
 [[menu.footer]]
 URL = "terms-conditions"
-name = "Terms & Conditions"
+name = "Termos & Condiçoes"
 weight = 3
 [[menu.footer]]
 URL = "privacy-policy"
-name = "Privacy Policy"
+name = "Privacidade"
 weight = 4
 [[menu.main]]
 URL = "/"
@@ -38,21 +38,17 @@ name = "Home"
 weight = 1
 [[menu.main]]
 URL = "products"
-name = "Products"
+name = "Produtos"
 weight = 2
 [[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 3
-[[menu.main]]
 URL = "contact"
-name = "Contact"
+name = "Contato"
 weight = 4
 [params]
-author = "Themefisher"
+author = "arxdsilva"
 contact_form_action = "#"
 currency = "R$"
-description = "This is meta description"
+description = "do Salto Flores"
 logo = "images/logo.png"
 logo_width = "100px"
 snipcart_api = "NTljZTI4NmMtZmY4OS00MTc0LThiNmMtYWRhM2E4MWZiNzVmNjM3MzQ5NDQ0OTE3MDk0MjIy"
