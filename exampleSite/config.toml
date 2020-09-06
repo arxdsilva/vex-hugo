@@ -22,7 +22,7 @@ name = "Blog"
 weight = 1
 [[menu.footer]]
 URL = "contact"
-name = "Contact"
+name = "Contato"
 weight = 2
 [[menu.footer]]
 URL = "terms-conditions"
