@@ -22,8 +22,6 @@ Qualquer ambiente fica lindo com um vaso de flores. Um arranjo com flores da mes
 
 Sua namorada não gosta de vermelho e nem de cor de rosa? Então, **presenteie com flores** de outras cores. Que tal astromélias brancas e gérberas roxas? Ou então tulipas amarelas? Flores são democráticas: sempre haverá uma que seja do agrado de quem você ama.
 
-![presentear com flores](https://www.floraweb.com.br/blog/wp-content/uploads/2017/09/tulips-1208206_640.jpg =640x426)
-
 ## **5- Ser presenteado com flor traz tranquilidade**
 
 Como qualquer elemento verde, **presentear com flores** traz tranquilidade para quem as recebe. Ficar admirando um arranjo de flores é inspirador e quando temos um toque de natureza no ambiente, tudo fica mais aconchegante.
