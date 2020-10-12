@@ -7,21 +7,10 @@ sections:
 - type: heading
   label: Homepage
 - type: document
-  path: exampleSite/data/en/homepage.yml
-  label: Homepage (en)
-- type: document
   path: exampleSite/data/pt/homepage.yml
   label: Homepage (pt)
 - type: heading
   label: Blog Post
-- type: directory
-  path: exampleSite/content/english/blog
-  label: Post (en)
-  create: documents
-  match: "**/*"
-  new_doc_ext: '20191203072044'
-  templates:
-  - post
 - type: directory
   path: exampleSite/content/portuguese/blog
   label: Post (pt)
@@ -32,13 +21,6 @@ sections:
 - type: heading
   label: Products
 - type: directory
-  path: exampleSite/content/english/products
-  label: Product (en)
-  create: documents
-  match: "**/*"
-  templates:
-  - product
-- type: directory
   path: exampleSite/content/portuguese/products
   label: Products (pt)
   create: documents
@@ -48,18 +30,10 @@ sections:
 - type: heading
   label: Contact
 - type: document
-  path: exampleSite/content/english/contact/_index.md
-  label: Contact (en)
-- type: document
   path: exampleSite/content/portuguese/contact/_index.md
   label: Contact (pt)
 - type: heading
   label: All Pages
-- type: directory
-  path: exampleSite/content/english
-  label: All Page (en)
-  create: all
-  match: "**/*"
 - type: directory
   path: exampleSite/content/portuguese
   label: All Page (pt)
