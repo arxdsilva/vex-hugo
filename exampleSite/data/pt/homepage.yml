@@ -1,34 +1,34 @@
 ############################# banner ############################
 banner:
   enable : true
-  title : "Acredite em Technologia, seja a mudança"
+  title : "Acredite no amor, dê flores"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!"
-  image : "images/watch.png"
+  image : "images/flores2.png"
   button:
    enable : true
-   label : "Browse All Products"
+   label : "Ver produtos"
    link : "products"
 
 ############################# Feature ############################
 features:
   enable : true
-  title : "Our Core Features"
-  image : "images/watch-2.png"
+  title : "As melhores flores do Rio"
+  image : "images/flores.png"
 
   # feature at the left of the image
   left_side:
     # feature item loop
-  - title : "Smooth Touch"
+  - title : "Entrega rápida"
     icon : "tf-ion-ios-alarm-outline"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
     
     # feature item loop
-  - title : "Elegant Design"
+  - title : "Elegantes"
     icon : "tf-ion-ios-bell-outline"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
     
     # feature item loop
-  - title : "Easy Pricing"
+  - title : "Preço justo"
     icon : "tf-ion-ios-cart-outline"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
 
