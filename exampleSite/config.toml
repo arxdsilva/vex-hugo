@@ -44,7 +44,7 @@ author = "arxdsilva"
 contact_form_action = "#"
 currency = "R$"
 description = "do Salto Flores"
-logo = "images/logo.png"
+logo = "images/logo-dosalto.png"
 logo_width = "100px"
 snipcart_api = "NTljZTI4NmMtZmY4OS00MTc0LThiNmMtYWRhM2E4MWZiNzVmNjM3MzQ5NDQ0OTE3MDk0MjIy"
 [[params.plugins.css]]
