@@ -1,6 +1,6 @@
 ---
 title: Buque com chocolate
-date: 2019-10-17T11:22:16.000+06:00
+date: 
 image: "/images/flores2.png"
 images:
 - images/showcase/showcase-5.png
