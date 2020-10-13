@@ -8,7 +8,6 @@
         <div class="heading">
           <h2>{{ $data.homepage.products.title | markdownify }}</h2>
         </div>
-
         <div class="product-slider">
           {{ range (where .Site.RegularPages "Section" "products") }}
           <div class="block">

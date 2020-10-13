@@ -7,7 +7,7 @@ title = "do Salto Flores"
 DefaultContentLanguage = "pt"
 [Languages.pt]
 contentDir = "content/portuguese"
-copyright = "Created by [arxdsilva](https://www.linkedin.com/in/arxdsilva)"
+copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/), configured by [arxdsilva](https://www.linkedin.com/in/arxdsilva)"
 languageCode = "pt-br"
 languageName = "Pt"
 weight = 1
